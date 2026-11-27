@@ -5,3 +5,4 @@ git branch -M main - решается в какой ветке ты работа
 git remote add origin https://github.com/vowka2011-droid/test.git - связывает твой репазиторий в git с github по ссылке
 git push -u origin main - отправляет изменения в основную ветку github
 git pull - получение изменений из github
+git status - позволяет посмотреть статус буквально всего git
